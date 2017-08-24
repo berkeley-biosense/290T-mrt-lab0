@@ -9,7 +9,7 @@ You will need to install some software to run this lab. After doing these steps,
 
 - *Python 3*. In a terminal window, try typing =python3 --version=. If it reads some number > 3, you are good to go! If not, [[https://www.python.org/downloads/release/python-360/][install Python3.6 for your platform]].
 - *Jupyter notebooks*. You can [[https://jupyter.org/install.html][download the notebook installer here]].
-- *XGBoost*. You can follow the setup instructions [[https://xgboost.readthedocs.io/en/latest/build.html][on the XGBoost documentation]]. Clone the repository, build the source, and perform the steps in "Python package installation."
+- *XGBoost*. You can follow the setup instructions [[https://xgboost.readthedocs.io/en/latest/build.html][on the XGBoost documentation]].
 - *sklearn* and *pandas*. If you installed Python with Anaconda, you should already have these libraries. If not, you should be able to simply =pip3 install sklearn pandas=.
 
 ** Completing this lab
